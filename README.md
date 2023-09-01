@@ -1,5 +1,9 @@
 # Frontend Mentor - Interactive rating component solution
 
+### Screenshot
+
+![](/design/desktop-preview.jpg)
+
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -7,7 +11,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Where to find everything](#where-to-find-everything)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
 
 ## Overview
@@ -39,9 +42,6 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-### Screenshot
-
-![](/design/desktop-preview.jpg)
 
 ### Built with
 
